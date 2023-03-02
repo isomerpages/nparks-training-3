@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  new-to-gardening:
     output: true
     order:
       - folder-page.md
