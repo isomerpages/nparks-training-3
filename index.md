@@ -26,10 +26,9 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: New to gardening?
+      subtitle: Gardening 101
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
 ---
-
