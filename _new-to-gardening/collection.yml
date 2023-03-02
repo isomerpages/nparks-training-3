@@ -1,6 +1,4 @@
 collections:
   new-to-gardening:
     output: true
-    order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+    order: []
