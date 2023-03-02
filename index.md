@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Gardening.SG
       subtitle: "let's get growing! "
-      background: /images/hero-banner.png
       button: Learn more about Gardening
       url: /contact-us/
       key_highlights:
