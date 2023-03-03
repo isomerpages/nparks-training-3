@@ -32,11 +32,11 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Gardening FAQs
-      subtitle: Got QUESTIONS?
-      description: "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-        bla bla bla "
+      title: Grow your own food
+      subtitle: Edible gardening
+      description: Find growing guides and other good horticultural practices when
+        growing your own vegetables, herbs and fruits
       alt: Image alt text
       image: /images/Hero images/wilson wong long.png
+      url: Let's go!
 ---
