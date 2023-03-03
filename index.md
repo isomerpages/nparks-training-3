@@ -38,5 +38,6 @@ sections:
         growing your own vegetables, herbs and fruits
       alt: Image alt text
       image: /images/Hero images/wilson wong long.png
-      url: Let's go!
+      url: /edible-gardening
+      button: Let's go!
 ---
