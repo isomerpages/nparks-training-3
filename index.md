@@ -30,4 +30,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Gardening FAQs
+      subtitle: Got QUESTIONS?
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
