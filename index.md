@@ -24,7 +24,7 @@ sections:
         - title: Science
           description: Key Highlight description
           url: ""
-      background: /images/Hero images/header kailan.jpg
+      background: /images/Hero images/hero banner.png
   - infobar:
       title: New to gardening?
       subtitle: Gardening 101
