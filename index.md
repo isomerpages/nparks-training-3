@@ -37,7 +37,14 @@ sections:
       description: Find growing guides and other good horticultural practices when
         growing your own vegetables, herbs and fruits
       alt: Image alt text
-      image: /images/Hero images/wilson wong long.png
+      image: /images/Hero images/vegetables.png
       url: /edible-gardening
       button: Let's go!
+  - infopic:
+      title: Import & export
+      subtitle: plants and plant products
+      description: "Starting an business or just a hobbyist? "
+      button: Find out what you can do
+      url: /import-export-of-plants
+      alt: Image alt text
 ---
