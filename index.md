@@ -24,6 +24,7 @@ sections:
         - title: Science
           description: Key Highlight description
           url: ""
+      background: /images/Hero images/header kailan.jpg
   - infobar:
       title: New to gardening?
       subtitle: Gardening 101
@@ -36,4 +37,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Hero images/wilson wong.png
 ---
