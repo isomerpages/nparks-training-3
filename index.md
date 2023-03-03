@@ -28,9 +28,9 @@ sections:
   - infobar:
       title: New to gardening?
       subtitle: Gardening 101
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      description: We have handpicked a few tips and tricks to get you going
+      button: you can do it!
+      url: /beginners-guide
   - infopic:
       title: Grow your own food
       subtitle: Edible gardening
