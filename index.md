@@ -24,7 +24,7 @@ sections:
         - title: Science
           description: Key Highlight description
           url: ""
-      background: /images/Hero images/grass layer.png
+      background: /images/Hero images/hero banner2.png
   - infobar:
       title: New to gardening?
       subtitle: Gardening 101
