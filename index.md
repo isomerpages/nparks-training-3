@@ -34,8 +34,9 @@ sections:
   - infopic:
       title: Gardening FAQs
       subtitle: Got QUESTIONS?
-      description: Infopic description
-      button: Button Text
+      description: "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla "
       alt: Image alt text
       image: /images/Hero images/wilson wong long.png
 ---
