@@ -37,5 +37,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-      image: /images/Hero images/wilson wong.png
+      image: /images/Hero images/wilson wong long.png
 ---
