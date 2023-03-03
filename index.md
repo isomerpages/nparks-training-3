@@ -37,7 +37,7 @@ sections:
       description: Find growing guides and other good horticultural practices when
         growing your own vegetables, herbs and fruits
       alt: Image of fruits and vegetables
-      image: /images/favicon-isomer.ico
+      image: /images/Hero images/vegetables1.png
       url: /edible-gardening
       button: Let's go!
   - infopic:
@@ -47,5 +47,5 @@ sections:
       button: Find out what you can do
       url: /import-export-of-plants
       alt: "Image of a lorry "
-      image: /images/favicon-isomer.ico
+      image: /images/Hero images/import lorry1.png
 ---
