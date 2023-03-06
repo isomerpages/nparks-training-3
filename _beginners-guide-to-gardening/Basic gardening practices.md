@@ -5,5 +5,5 @@ description: ""
 ---
 | |  |
 | -------- | -------- |
-|  | image|
-| Soil mixing | Growing from seeds |
+| image <br> Growing from seeds | image <br> Growing from seeds |
+|  |  |
