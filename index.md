@@ -30,7 +30,7 @@ sections:
       subtitle: Gardening 101
       description: We've handpicked a few tips and tricks to get you going
       button: you can do it!
-      url: /beginners-guide
+      url: /beginners-guide-to-gardening
   - infopic:
       title: Grow your own food
       subtitle: Edible gardening
