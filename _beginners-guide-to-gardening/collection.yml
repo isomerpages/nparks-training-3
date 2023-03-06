@@ -2,4 +2,4 @@ collections:
   beginners-guide-to-gardening:
     output: true
     order:
-      - DIY projects.md
+      - Basic gardening practices.md
