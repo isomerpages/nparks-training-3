@@ -1,4 +1,5 @@
 collections:
   beginners-guide-to-gardening:
     output: true
-    order: []
+    order:
+      - DIY projects.md
