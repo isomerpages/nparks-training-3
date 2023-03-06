@@ -3,4 +3,8 @@ title: DIY projects
 permalink: /beginners-guide-to-gardening/permalink/
 description: ""
 ---
-testing 
+
+| Get started with these projects |  | 
+| -------- | -------- | 
+| Text     | Text     | 
+
