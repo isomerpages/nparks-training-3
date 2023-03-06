@@ -1,5 +1,4 @@
 collections:
   new-to-gardening:
     output: true
-    order:
-      - Herbs and spices 101.md
+    order: []
