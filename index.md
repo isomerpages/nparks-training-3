@@ -43,7 +43,7 @@ sections:
   - infopic:
       title: Import & export
       subtitle: plants and plant products
-      description: "Starting an business or just a hobbyist? "
+      description: "Starting a business or just a hobbyist? "
       button: Find out what you can do
       url: /import-export-of-plants
       alt: "Image of a lorry "
